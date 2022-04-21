@@ -238,3 +238,8 @@ fabric.properties
 *.vsix
 
 
+# geekshop --->
+
+tmp
+
+# <--- geekshop
