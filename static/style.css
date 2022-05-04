@@ -45,10 +45,12 @@ button.last {
 
 .td1.order.formset_td {
 	/*width: 70%;*/
+	width: 100%;
 }
 
 .td2.order.formset_td {
 	/*width: 50px;*/
+	width: 100%;
 }
 
 .td3.order.formset_td {
